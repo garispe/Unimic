@@ -16,5 +16,5 @@ En cuanto a software, está disponible tanto para Linux como para Windows. Los p
 * [MPLAB](http://www.microchip.com/pagehandler/en-us/family/mplabx/)
 * [XC8 Compilers] (http://www.microchip.com/pagehandler/en_us/devtools/mplabxc/)
 
-Alugunas librerías que podrían ser de utilidad [Wiki](https://github.com/garispe/Unimic/wiki).
+Alugunas librerías que podrían ser de utilidad [Wiki](https://github.com/garispe/Unimic/wiki/UNIMIC).
 
